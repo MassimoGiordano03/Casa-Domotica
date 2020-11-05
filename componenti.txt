@@ -1,0 +1,7 @@
+// con la planimetria in mano, scrivi tutto ciò che serve al funzionamento della casa.
+// il modulo bluetooth non lo mettere perché ci penso io :)
+
+Luci -> Crepuscolare, Lampeggiante
+
+Porte -> Servo Motore, Fine corsa, Fotocellula o Ultrasuoni
+
